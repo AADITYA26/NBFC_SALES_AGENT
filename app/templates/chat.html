@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NBFC AI Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <div class="chat-wrapper">
+    <header>
+      <h2>💬 NBFC Personal Loan Assistant</h2>
+      <form action="/logout" method="get">
+        <button class="logout-btn">Logout</button>
+      </form>
+    </header>
+
+    <div id="chat-box" class="chat-box">
+      <!-- Chat history will load here -->
+    </div>
+
+    <div class="input-container">
+      <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+  <script>
+    window.onload = loadHistory;
+  </script>
+</body>
+</html>

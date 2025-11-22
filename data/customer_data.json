@@ -1,0 +1,201 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Arjun Sharma",
+    "phone": "9876543210",
+    "city": "Mumbai",
+    "current_loan_status": "None",
+    "pre_approved_limit": 500000,
+    "credit_score": 780,
+    "salary": 100000
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Priya Patel",
+    "phone": "9988776655",
+    "city": "Bangalore",
+    "current_loan_status": "Existing Auto Loan",
+    "pre_approved_limit": 200000,
+    "credit_score": 650,
+    "salary": 60000
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Rohit Verma",
+    "phone": "9000111222",
+    "city": "Delhi",
+    "current_loan_status": "Existing Home Loan",
+    "pre_approved_limit": 300000,
+    "credit_score": 750,
+    "salary": 75000
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Sneha Reddy",
+    "phone": "9777666555",
+    "city": "Hyderabad",
+    "current_loan_status": "None",
+    "pre_approved_limit": 100000,
+    "credit_score": 820,
+    "salary": 40000
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Kiran Singh",
+    "phone": "8123456789",
+    "city": "Kolkata",
+    "current_loan_status": "Credit Card outstanding",
+    "pre_approved_limit": 450000,
+    "credit_score": 730,
+    "salary": 90000
+  },
+  {
+    "customer_id": "CUST006",
+    "name": "Deepak Yadav",
+    "phone": "9555444333",
+    "city": "Pune",
+    "current_loan_status": "None",
+    "pre_approved_limit": 600000,
+    "credit_score": 805,
+    "salary": 120000
+  },
+  {
+    "customer_id": "CUST007",
+    "name": "Nisha Kaur",
+    "phone": "8888999000",
+    "city": "Chennai",
+    "current_loan_status": "Existing Personal Loan",
+    "pre_approved_limit": 150000,
+    "credit_score": 710,
+    "salary": 50000
+  },
+  {
+    "customer_id": "CUST008",
+    "name": "Vikram Rao",
+    "phone": "7000777000",
+    "city": "Jaipur",
+    "current_loan_status": "None",
+    "pre_approved_limit": 250000,
+    "credit_score": 795,
+    "salary": 65000
+  },
+  {
+    "customer_id": "CUST009",
+    "name": "Ayesha Khan",
+    "phone": "9123450000",
+    "city": "Lucknow",
+    "current_loan_status": "Existing Education Loan",
+    "pre_approved_limit": 50000,
+    "credit_score": 760,
+    "salary": 30000
+  },
+  {
+    "customer_id": "CUST010",
+    "name": "Gopal Menon",
+    "phone": "8080808080",
+    "city": "Ahmedabad",
+    "current_loan_status": "None",
+    "pre_approved_limit": 400000,
+    "credit_score": 690,
+    "salary": 80000},
+  {
+    "customer_id": "CUST011",
+    "name": "Manish Desai",
+    "phone": "9090909091",
+    "city": "Surat",
+    "current_loan_status": "None",
+    "pre_approved_limit": 350000,
+    "credit_score": 745,
+    "salary": 78000
+  },
+  {
+    "customer_id": "CUST012",
+    "name": "Ritu Gupta",
+    "phone": "9898989898",
+    "city": "Noida",
+    "current_loan_status": "Existing Personal Loan",
+    "pre_approved_limit": 180000,
+    "credit_score": 720,
+    "salary": 52000
+  },
+  {
+    "customer_id": "CUST013",
+    "name": "Harsh Kumar",
+    "phone": "9123456788",
+    "city": "Gurgaon",
+    "current_loan_status": "None",
+    "pre_approved_limit": 550000,
+    "credit_score": 810,
+    "salary": 140000
+  },
+  {
+    "customer_id": "CUST014",
+    "name": "Meera Nair",
+    "phone": "9000001234",
+    "city": "Kochi",
+    "current_loan_status": "Credit Card outstanding",
+    "pre_approved_limit": 220000,
+    "credit_score": 705,
+    "salary": 56000
+  },
+  {
+    "customer_id": "CUST015",
+    "name": "Saurabh Jain",
+    "phone": "9800111100",
+    "city": "Indore",
+    "current_loan_status": "Existing Home Loan",
+    "pre_approved_limit": 300000,
+    "credit_score": 765,
+    "salary": 95000
+  },
+  {
+    "customer_id": "CUST016",
+    "name": "Ananya Bose",
+    "phone": "9444444444",
+    "city": "Bhubaneswar",
+    "current_loan_status": "None",
+    "pre_approved_limit": 150000,
+    "credit_score": 690,
+    "salary": 45000
+  },
+  {
+    "customer_id": "CUST017",
+    "name": "Tarun Malhotra",
+    "phone": "9333333333",
+    "city": "Chandigarh",
+    "current_loan_status": "Existing Auto Loan",
+    "pre_approved_limit": 280000,
+    "credit_score": 725,
+    "salary": 67000
+  },
+  {
+    "customer_id": "CUST018",
+    "name": "Fatima Sheikh",
+    "phone": "9555001000",
+    "city": "Nagpur",
+    "current_loan_status": "None",
+    "pre_approved_limit": 500000,
+    "credit_score": 835,
+    "salary": 110000
+  },
+  {
+    "customer_id": "CUST019",
+    "name": "Yashwant Rao",
+    "phone": "9222211111",
+    "city": "Bhopal",
+    "current_loan_status": "Credit Card outstanding",
+    "pre_approved_limit": 120000,
+    "credit_score": 660,
+    "salary": 38000
+  },
+  {
+    "customer_id": "CUST020",
+    "name": "Kavya Iyer",
+    "phone": "9333002200",
+    "city": "Mysore",
+    "current_loan_status": "None",
+    "pre_approved_limit": 650000,
+    "credit_score": 825,
+    "salary": 130000
+  }
+]
